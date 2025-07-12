@@ -1,0 +1,4 @@
+Python 3.10+
+TensorFlow 2.13
+OpenCV
+Numpy
